@@ -1,4 +1,13 @@
-### Hi there 👋
+# About Me
+
+Hi, I am Fiony. 👋  I am currently an undergrad at the Univerity of Toronto studying Statistics, Mathematics and GIS. Throughout my academic career, I discovered my passion in Data Science and Data Analytics - finding joy in extracting data from datasets and understanding how the data interconnects. 
+
+#### Here are a few interesting courses I have taken:
+- `STA314H1` - Statistical Methods for Machine Learning I
+- `CSC207H1` - Software Design
+- `STA302H1` - Method of Data Analysis I
+- `STA414H1` - Statistical Methods for Machine Learning II (IPR)
+- `CSC343H1` - Introduction to Databases (IPR)
 
 <!--
 **fionyvan/fionyvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
