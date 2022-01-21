@@ -5,7 +5,7 @@ Hi, I am Fiony. 👋  I am currently an undergrad at the Univerity of Toronto st
 #### Here are a few interesting courses I have taken:
 - `STA314H1` - Statistical Methods for Machine Learning I
 - `CSC207H1` - Software Design
-- `STA302H1` - Method of Data Analysis I
+- `STA302H1` - Methods of Data Analysis I
 - `STA414H1` - Statistical Methods for Machine Learning II (IPR)
 - `CSC343H1` - Introduction to Databases (IPR)
 
