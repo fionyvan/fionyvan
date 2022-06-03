@@ -8,8 +8,11 @@ I am most familiar with `R`, `Python` and `SQL`. Other languages/frameworks/tool
 # Data Visualization
 I use python packages to visualize data - mainly matplotlib and seaborn.
 
+### Projects IPR
+- An interactive portforlio website using HTML, CSS, JavaScript, React
+- A tableau public dashboard
 
-#### Here are a few interesting courses I have taken:
+### Here are a few interesting courses I have taken:
 - `STA314H1` - Statistical Methods for Machine Learning I
 - `CSC207H1` - Software Design
 - `STA302H1` - Methods of Data Analysis I
@@ -17,9 +20,6 @@ I use python packages to visualize data - mainly matplotlib and seaborn.
 - `CSC343H1` - Introduction to Databases (IPR)
 
 
-### Projects IPR
-- An interactive portforlio website using HTML, CSS, JavaScript, React
-- A tableau public dashboard
 
 <!--
 **fionyvan/fionyvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
