@@ -19,7 +19,7 @@ I use python packages to visualize data - mainly matplotlib and seaborn.
 
 ### Projects IPR
 - An interactive portforlio website using HTML, CSS, JavaScript, React
-- A tableau publiv dashboard
+- A tableau public dashboard
 
 <!--
 **fionyvan/fionyvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
