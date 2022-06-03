@@ -5,6 +5,9 @@ Hi, I am Fiony. 👋  I am currently an undergrad at the Univerity of Toronto st
 # Technical Background
 I am most familiar with `R`, `Python` and `SQL`. Other languages/frameworks/tools that I have dabbled with include `Java`, `Flask` and `ArcMap`.
 
+# Data Visualization
+I use python packages to visualize data - mainly matplotlib and seaborn.
+
 
 #### Here are a few interesting courses I have taken:
 - `STA314H1` - Statistical Methods for Machine Learning I
@@ -12,6 +15,11 @@ I am most familiar with `R`, `Python` and `SQL`. Other languages/frameworks/tool
 - `STA302H1` - Methods of Data Analysis I
 - `STA414H1` - Statistical Methods for Machine Learning II (IPR)
 - `CSC343H1` - Introduction to Databases (IPR)
+
+
+### Projects IPR
+- An interactive portforlio website using HTML, CSS, JavaScript, React
+- A tableau publiv dashboard
 
 <!--
 **fionyvan/fionyvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
