@@ -3,7 +3,7 @@
 Hi, I am Fiony. 👋  I am currently an undergrad at the Univerity of Toronto studying Statistics, Mathematics and GIS. During my academic career, I discovered a passion for Data Science and anaylzing spatial data using ArcMap Desktop - finding joy in extracting data from datasets and understanding how the data interconnects to drive business decisions. 
 
 # Technical Background
-Programming languages: `Python`, `R`, `SQL`, `HTML/CSS`
+Programming languages: `Python`, `R`, `SQL`, `HTML/CSS`, `Java`
 
 Developer Tools: `Git`, `Github`, `Visual Studio Code`
 
