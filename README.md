@@ -8,10 +8,6 @@ Developer Tools: `Git`, `Github`, `Visual Studio Code`
 Libraries: `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `AlchemySQL`, `Geopandas`
 Other: `PostgreSQL`
 
-
-# Data Visualization
-I use python packages to visualize data - mainly matplotlib and seaborn.
-
 ### Projects IPR
 - An interactive portforlio website using HTML, CSS and JavaScript
 - A tableau public dashboard using the sample_superstore.csv dataset
