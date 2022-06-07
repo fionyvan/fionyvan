@@ -3,7 +3,11 @@
 Hi, I am Fiony. 👋  I am currently an undergrad at the Univerity of Toronto studying Statistics, Mathematics and GIS. During my academic career, I discovered a passion for Data Science and anaylzing spatial data using ArcMap Desktop - finding joy in extracting data from datasets and understanding how the data interconnects to drive business decisions. 
 
 # Technical Background
-I am most familiar with `R`, `Python` and `SQL`. Other languages/frameworks/tools that I have dabbled with include `Java`, `Flask` and `ArcMap`.
+Programming languages: `Python`, `R`, `SQL`, `HTML/CSS`
+Developer Tools: `Git`, `Github`, `Visual Studio Code`
+Libraries: `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `AlchemySQL`, `Geopandas`
+Other: `PostgreSQL`
+
 
 # Data Visualization
 I use python packages to visualize data - mainly matplotlib and seaborn.
@@ -13,11 +17,10 @@ I use python packages to visualize data - mainly matplotlib and seaborn.
 - A tableau public dashboard using the sample_superstore.csv dataset
 
 ### Here are a few interesting courses I have taken:
-- `STA314H1` - Statistical Methods for Machine Learning I
-- `CSC207H1` - Software Design
-- `STA302H1` - Methods of Data Analysis I
-- `STA414H1` - Statistical Methods for Machine Learning II (IPR)
-- `CSC343H1` - Introduction to Databases (IPR)
+- Statistical Methods for Machine Learning I
+- Methods of Data Analysis I
+- Introduction to Databases
+- Software Design
 
 
 
