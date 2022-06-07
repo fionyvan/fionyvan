@@ -9,8 +9,8 @@ I am most familiar with `R`, `Python` and `SQL`. Other languages/frameworks/tool
 I use python packages to visualize data - mainly matplotlib and seaborn.
 
 ### Projects IPR
-- An interactive portforlio website using HTML, CSS, JavaScript, React
-- A tableau public dashboard
+- An interactive portforlio website using HTML, CSS and JavaScript
+- A tableau public dashboard using the sample_superstore.csv dataset
 
 ### Here are a few interesting courses I have taken:
 - `STA314H1` - Statistical Methods for Machine Learning I
