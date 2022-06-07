@@ -11,11 +11,11 @@ Libraries: `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `AlchemySQL`, `Geopandas`
 
 Other: `PostgreSQL`
 
-### Projects IPR
+## Projects IPR
 - An interactive portforlio website using HTML, CSS and JavaScript
 - A tableau public dashboard using the sample_superstore.csv dataset
 
-### Here are a few interesting courses I have taken:
+## Here are a few interesting courses I have taken:
 - Statistical Methods for Machine Learning I
 - Methods of Data Analysis I
 - Introduction to Databases
