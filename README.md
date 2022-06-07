@@ -5,7 +5,7 @@ Hi, I am Fiony. 👋  I am currently an undergrad at the Univerity of Toronto st
 # Technical Background
 Programming languages: `Python`, `R`, `SQL`, `HTML/CSS`
 
-Developer Tools: `Git`, Github, Visual Studio Code
+Developer Tools: `Git`, `Github`, `Visual Studio Code`
 
 Libraries: `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `AlchemySQL`, `Geopandas`
 
