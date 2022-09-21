@@ -20,6 +20,7 @@ Other: `PostgreSQL`
 - Methods of Data Analysis I
 - Introduction to Databases
 - Software Design
+- Time Series Analysis (IPR)
 
 
 
