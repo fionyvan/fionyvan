@@ -13,6 +13,7 @@ Other: `PostgreSQL`, `Microsoft Office Suite`
 
 ## Projects IPR
 - An interactive portforlio website using HTML, CSS and JavaScript
+  - Work in progress can be found here: https://fionyvan.github.io/
 - A tableau public dashboard using the sample_superstore.csv dataset
 
 ## Here are a few interesting courses I have taken:
@@ -20,6 +21,7 @@ Other: `PostgreSQL`, `Microsoft Office Suite`
 - Methods of Data Analysis I
 - Introduction to Databases
 - Software Design
+- Calculus II
 - Time Series Analysis (IPR)
 
 
