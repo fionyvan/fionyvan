@@ -9,7 +9,7 @@ Developer Tools: `Git`, `Github`, `Visual Studio Code`
 
 Libraries: `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `AlchemySQL`, `Geopandas`
 
-Other: `PostgreSQL`
+Other: `PostgreSQL`, `Microsoft Office Suite`
 
 ## Projects IPR
 - An interactive portforlio website using HTML, CSS and JavaScript
