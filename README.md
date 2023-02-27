@@ -11,9 +11,9 @@ Libraries: `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `AlchemySQL`, `Geopandas`
 
 Other: `PostgreSQL`, `Microsoft Office Suite`
 
+## Check out my personal website here: https://fionyvan.github.io/
+
 ## Projects IPR
-- An interactive portforlio website using HTML, CSS and JavaScript
-  - Work in progress can be found here: https://fionyvan.github.io/
 - A tableau public dashboard using the sample_superstore.csv dataset
 
 ## Here are a few interesting courses I have taken:
