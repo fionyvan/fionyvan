@@ -11,7 +11,8 @@ Libraries: `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `AlchemySQL`, `Geopandas`
 
 Other: `PostgreSQL`, `Microsoft Office Suite`
 
-## Check out my personal website here: https://fionyvan.github.io/
+## Check out my personal website here: 
+- https://fionyvan.github.io/
 
 ## Projects IPR
 - A tableau public dashboard using the sample_superstore.csv dataset
