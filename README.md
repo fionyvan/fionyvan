@@ -25,7 +25,7 @@ Other: `PostgreSQL`, `Microsoft Office Suite`
 - Calculus II
 - Linear Algebra I
 - Time Series Analysis
-- Combinatorics
+- Combinatorics (Graph Theory)
 
 
 
