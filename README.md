@@ -24,7 +24,8 @@ Other: `PostgreSQL`, `Microsoft Office Suite`
 - Software Design
 - Calculus II
 - Linear Algebra I
-- Time Series Analysis (IPR)
+- Time Series Analysis
+- Combinatorics
 
 
 
