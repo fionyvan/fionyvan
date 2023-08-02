@@ -18,9 +18,9 @@ Other: `PostgreSQL`, `Microsoft Office Suite`
 - A tableau public dashboard using the sample_superstore.csv dataset
 
 ## Here are a few interesting courses I have taken:
-- Statistical Methods for Machine Learning I
-- Methods of Data Analysis I
-- Introduction to Databases
+- Statistical Methods for Machine Learning
+- Methods of Data Analysis
+- Database Fundamentals
 - Software Design
 - Calculus II
 - Linear Algebra I
